@@ -27,7 +27,7 @@ I'm an Information Systems student passionate about Front-End Development, turni
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syqrhnn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syqrhnn&theme=github-compact&area=true&hide_border=true)](https://github.com/syqrhnn)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syqrhnn&theme=react-dark&hide_border=true&area=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
