@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=syqrhnn&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 👋 Hi there! I'm Syauqi
 
 
@@ -25,7 +27,5 @@ I'm an Information Systems student passionate about Front-End Development, turni
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syqrhnn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=syqrhnn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
